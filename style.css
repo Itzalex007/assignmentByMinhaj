@@ -5,7 +5,9 @@
     box-sizing: border-box;
 }
 
-
+body{
+    background-color: #fee;
+}
 .start{
     width: 8px;
     height: 8px;
